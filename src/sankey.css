@@ -1,0 +1,14 @@
+.small-text {
+  font-size: 10pt;
+}
+
+.label-text {
+  font-size: 10pt;
+  font-weight: bold;
+}
+
+.link {
+  fill: none;
+  stroke: grey;
+  stroke-opacity: .3;
+}
