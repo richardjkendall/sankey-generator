@@ -170,8 +170,8 @@ function App() {
 
   // original colours ["#fafa6e", "#2a4858"]
   // new first colour #f97193
-  const [firstColour, setFirstColour] = useState("#fafa6e");
-  const [secondColour, setSecondColour] = useState("#2a4858");
+  const [firstColour, setFirstColour] = useState("#eab010");      // #eab010
+  const [secondColour, setSecondColour] = useState("#09a0f1");    // #09a0f1
   const [nodeMargin, setNodeMargin] = useState(15);
 
   // on load, set the default config
